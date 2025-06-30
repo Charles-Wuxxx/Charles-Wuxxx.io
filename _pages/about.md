@@ -11,7 +11,7 @@ I'm a second year undergraduate student from Sun Yat-sen University. My research
 
 I am very fortunate to be advised by [Prof. Zhao Shen] from [School of Intelligent Engineering](https://ise.sysu.edu.cn/), Sun Yat-sen University.
 
-[Email](wubin68@mail2.sysu.edu.cn) / [Github](https://github.com/Charles-Wuxxx) / [Wechat](images/wechat.jpg) / 
+[Email](wubin68@mail2.sysu.edu.cn) / [Github](https://github.com/Charles-Wuxxx) / [Wechat](../images/wechat.jpg) / 
                         
 
 A data-driven personal website
